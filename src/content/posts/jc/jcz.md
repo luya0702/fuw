@@ -1,7 +1,7 @@
 
 ---
 title: 新人必读
-published: 2026-05-16
+published: 2026-05-15
 description: 教程总纲
 tags: [教程]
 category: 教程
