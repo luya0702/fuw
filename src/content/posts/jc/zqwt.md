@@ -17,6 +17,6 @@ draft: false
 
 # 2.安装使用
 - 安装
-    运行LEInstaller.exe ，点击 Install for current user 和 Install for all users 。
+    - 运行LEInstaller.exe ，点击 Install for current user 和 Install for all users 。
 - 使用
-    右键要转区的软件 更多 —— Locale Emulator —— Run in Japanese 。
+    - 右键要转区的软件 更多 —— Locale Emulator —— Run in Japanese 。
