@@ -54,16 +54,9 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/tx.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "亞",
+	name: "loa",
 	bio: "专注于分享各类galgame",
 	links: [
-		{
-			name: "bilibili",
-			icon: "tabler:brand-bilibili", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://space.bilibili.com/336030665",
-		},
 		{
 			name: "Telegram",
 			icon: "ic:baseline-telegram",
