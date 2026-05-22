@@ -8,7 +8,7 @@
 
  网站资源表格：[谷歌文档](https://docs.google.com/spreadsheets/d/1jew7TaJQKAaOIqN3U7XoukszkfyY8rWugUCytnGCBaU/edit?gid=0#gid=0)
 
- 若网站没有你需要的资源或其他问题，可前往[bilibili](https://space.bilibili.com/336030665)或[Telegram](https://t.me/loa70)给我发信息。
+ 若网站没有你需要的资源或其他问题，请发送邮箱至loa70@loagal.top或前往[Telegram](https://t.me/loa70)给我发信息。
 
  本站所有资源均为学习用途，不会涉及到金钱交易。若您在任何交易平台发现相关内容，请直接举报处理。
  个人整理更新速度有限，不能保证更新频率。
