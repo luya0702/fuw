@@ -1,6 +1,6 @@
 ---
 
-title: AKABEiSOFT2 / あかべぇそふとすりぃ
+title: AKABEiSOFT3 / あかべぇそふとすりぃ
 published: 2026-05-23
 description: 会社合集
 tags: [会社]
