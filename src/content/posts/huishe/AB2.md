@@ -17,6 +17,16 @@ draft: false
 
 ## 单部下载：(有能力还请支持正版！)
 
+---
+
+### 注意：  
+1.提供游戏原名和汉化译名，内容多的情况下推荐使用CTRL+F搜索。  
+2.注意事项中的内容为我测试时遇到的一些问题，测试系统win11，不能保证您的电脑能否运行。  
+3.若您的电脑无法运行，请看以下网站[点我查看](https://loagal.top/posts/jc/jcz/)   
+4.有能力请支持正版！  
+
+---
+
 **游戏名称：** 車輪の国、向日葵の少女  
 **别名：** 车轮之国、向日葵的少女  
 **下载地址：** [文件频道](https://t.me/sharega_down/11) | [百度网盘](https://pan.baidu.com/s/1ORkEX39rSNjyKf6FjYIJkw?pwd=41nz) | [迅雷网盘](https://pan.xunlei.com/s/VOjzGZKqaF6lU8b3cX0gSTUsA1?pwd=f9ph#)  

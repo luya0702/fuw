@@ -17,6 +17,16 @@ draft: false
 
 ## 单部下载：(有能力还请支持正版！)
 
+---
+
+### 注意：  
+1.提供游戏原名和汉化译名，内容多的情况下推荐使用CTRL+F搜索。  
+2.注意事项中的内容为我测试时遇到的一些问题，测试系统win11，不能保证您的电脑能否运行。  
+3.若您的电脑无法运行，请看以下网站[点我查看](https://loagal.top/posts/jc/jcz/)   
+4.有能力请支持正版！  
+
+---
+
 **游戏名称：** わんこの嫁入り ～ようこそ！いぬのしっぽへ～  
 **别名：** 汪酱出嫁～欢迎光临!狗尾巴～/小狗新娘～欢迎光临尾巴摇摇～  
 **下载地址：** [文件频道](https://t.me/sharega_down/46) | [百度网盘](https://pan.baidu.com/s/1ViqtZ6kChcYrv_sczIA5pw?pwd=4vz1) | [迅雷网盘](https://pan.xunlei.com/s/VOqQkftWuJXqqPmUCvFotR8wA1?pwd=qg35#)  

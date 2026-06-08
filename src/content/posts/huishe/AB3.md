@@ -15,7 +15,17 @@ draft: false
 - [迅雷网盘](https://pan.xunlei.com/s/VOtErYgkC7glHjaX5HFCWBdKA1?pwd=bmma#)  
 - TG没有合集，请到下面下载  
 
-## 单部下载：(有能力还请支持正版！)
+## 单部下载：
+
+---
+
+### 注意：  
+1.提供游戏原名和汉化译名，内容多的情况下推荐使用CTRL+F搜索。  
+2.注意事项中的内容为我测试时遇到的一些问题，测试系统win11，不能保证您的电脑能否运行。  
+3.若您的电脑无法运行，请看以下网站[点我查看](https://loagal.top/posts/jc/jcz/)   
+4.有能力请支持正版！  
+
+---
 
 **游戏名称：** 生命のスペア I was born for you  
 **别名：** 生命的备件  
@@ -78,31 +88,26 @@ draft: false
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0119)  
 
 **游戏名称：** 手垢塗れの復讐  
-**别名：**  Teakamamire no Fukushuu  
 **语言：**  #中文 #AI翻译 #c37s  
 **下载地址：** [文件频道](https://t.me/sharega_down/71) | [百度网盘](https://pan.baidu.com/s/1DrgPZaRE6VrQPj2hhjLzyQ?pwd=qng4) | [迅雷网盘](https://pan.xunlei.com/s/VOqf_ZGI7Z2vu2r4mMtJAeSDA1?pwd=8znd#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0106/)  
 
 **游戏名称：** 手垢塗れの堕天使  
-**别名：**  Teakamamire no Danshi  
 **语言：**  #中文 #AI翻译 #sakura  
 **下载地址：** [文件频道](https://t.me/sharega_down/70) | [百度网盘](https://pan.baidu.com/s/1TDlrkM2p8iccEbmk82PD-Q?pwd=x5sb) | [迅雷网盘](https://pan.xunlei.com/s/VOqfj0pmSH5NRq1oWH0_C03FA1?pwd=5mh6#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0087/)  
 
 **游戏名称：** 働くオタクの恋愛事情  
-**别名：**  Hataraku Otaku no Ren'ai Jijou  
 **语言：**  #中文 #AI翻译 #c35s  
 **下载地址：** [文件频道](https://t.me/sharega_down/72) | [百度网盘](https://pan.baidu.com/s/1nbsO2IjnjLNdrUaiddMq_A?pwd=nuya) | [迅雷网盘](https://pan.xunlei.com/s/VOqiSUbP5FRFyknX1NKt3iNHA1?pwd=4ie9#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0079)  
 
 **游戏名称：** 働くオトナの恋愛事情  
-**别名：**  Hataraku Otona no Ren'ai Jijou  
 **语言：**  #中文 #AI翻译 #c37s  
 **下载地址：** [文件频道](https://t.me/sharega_down/75) | [百度网盘](https://pan.baidu.com/s/1ACc3v39sO4yNs53LRenK6A?pwd=5536) | [迅雷网盘](https://pan.xunlei.com/s/VOqiVQjXg980E_6iJTOwoltpA1?pwd=n7vb#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0055)  
 
 **游戏名称：** 働くオトナの恋愛事情 2  
-**别名：**  Hataraku Otona no Ren'ai Jijou 2  
 **语言：**  #中文 #AI翻译 #gpt35  
 **下载地址：** [文件频道](https://t.me/sharega_down/78) | [百度网盘](https://pan.baidu.com/s/1kAXx-UIJvouAbfoQ-0WfDg?pwd=tfpw) | [迅雷网盘](https://pan.xunlei.com/s/VOqi_sqZ7Z2vu2r4mMtKgwkWA1?pwd=crhj#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0097)  
@@ -111,25 +116,22 @@ draft: false
 若字体显示异常，安装目录下WenQuanYi\_CNJP.ttf，设置内切换字体。  
 
 **游戏名称：** 創世奇譚アエリアル  
-**别名：**  Sousei Kitan Aerial  
 **语言：**  #中文 #AI翻译 #gpt4o  
 **下载地址：** [文件频道](https://t.me/sharega_down/81) | [百度网盘](https://pan.baidu.com/s/1AxKEkA0w0CRkBMctv3Txtw?pwd=fia9) | [迅雷网盘](https://pan.xunlei.com/s/VOqjIFXcC-ogcqfzvlZfGR2gA1?pwd=m7ri#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0027)  
 
 **游戏名称：** 略奪者の淫宴  
-**别名：**  Ryakudatsusha no In'en  
 **语言：**  #中文 #AI翻译 #g25p  
 **下载地址：** [文件频道](https://t.me/sharega_down/85) | [百度网盘](https://pan.baidu.com/s/1-kleD4N7n4KopkwV_LgU5Q?pwd=gb72) | [迅雷网盘](https://pan.xunlei.com/s/VOqjKxzCMKRsZkuZ69rFOXi7A1?pwd=nrsj#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0073/)  
 
 **游戏名称：** はるとゆき、  
-**别名：**  Haru to Yuki,  
 **语言：**  #中文 #AI翻译 #g25p  
 **下载地址：** [文件频道](https://t.me/sharega_down/86) | [百度网盘](https://pan.baidu.com/s/1bHhYZsdwhZkonFd4fUX3mA?pwd=pc3s) | [迅雷网盘](https://pan.xunlei.com/s/VOqkA0er5Kdwo9W4AZMhr2NgA1?pwd=hifk#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0101/)  
 
 **游戏名称：** まほ×ろば -Witches spiritual home-  
-**别名：**  Maho × Roba -Witches spiritual home- / 魔法星奏  
+**别名：**  魔法星奏  
 **语言：**  #中文 #AI翻译 #g25p  
 **下载地址：** [文件频道](https://t.me/sharega_down/89) | [百度网盘](https://pan.baidu.com/s/16UIJ5ZKN3ZwASf3MByuLuw?pwd=6ydk) | [迅雷网盘](https://pan.xunlei.com/s/VOqkDjzdEA6EdR3k--INaNu1A1?pwd=ax7d#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0092/)  
@@ -138,13 +140,11 @@ draft: false
 如报错的还要改设置的可以先转区启动mahoXroba.exe，改完在启动mahoXroba\_cn.exe。  
 
 **游戏名称：** 愚者ノ教鞭 −今しかできないことがたくさんあるんだ！−  
-**别名：**  Gusha no Kyouben \~Ima Shika Dekinai Koto ga Takusan Arun Da!\~  
 **语言：**  #中文 #AI翻译 #c35s  
 **下载地址：** [文件频道](https://t.me/sharega_down/92) | [百度网盘](https://pan.baidu.com/s/1eXZU8k-GnKgTRU_3thSO7A?pwd=we94) | [迅雷网盘](https://pan.xunlei.com/s/VOqnlxgY93Cn62JvHHxFidbrA1?pwd=bj3v#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0070/)  
 
 **游戏名称：** アイラブ 恋する乙女はキカイ仕掛け  
-**别名：**  AI Love: Koisuru Otome wa Kikaijikake  
 **语言：**  #中文 #AI翻译 #c35s  
 **下载地址：** [文件频道](https://t.me/sharega_down/95) | [百度网盘](https://pan.baidu.com/s/1CeWhdstnUZTnQscpTQxKWQ?pwd=hxht) | [迅雷网盘](https://pan.xunlei.com/s/VOqnsgsDNY7mCRVIUZY6fMMwA1?pwd=vn8x#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0095/)  
@@ -152,13 +152,11 @@ draft: false
 转区运行  
 
 **游戏名称：** JOKER-死線の果ての道化師-  
-**别名：**  JOKER -Shisen no Hate no Doukeshi-  
 **语言：**  #中文 #AI翻译 #c35s  
 **下载地址：** [文件频道](https://t.me/sharega_down/94) | [百度网盘](https://pan.baidu.com/s/1duE3WDQH8DGgHby3EPUpSg?pwd=t5sx) | [迅雷网盘](https://pan.xunlei.com/s/VOqnqECwd7d9SmHoh0B4oufgA1?pwd=fe7c#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0017/)  
 
 **游戏名称：** 空色イノセント  
-**别名：**  Sorairo Innocent  
 **语言：**  #中文 #AI翻译 #c37s  
 **下载地址：** [文件频道](https://t.me/sharega_down/96) | [百度网盘](https://pan.baidu.com/s/1f9mpxWg1tL5iWzGu6oJlzA?pwd=t9xd) | [迅雷网盘](https://pan.xunlei.com/s/VOqnvZ_YzFsA7mQsjOzOgNX3A1?pwd=scnq#)  
 **入正地址：**   [FANZA](https://dlsoft.dmm.co.jp/detail/akbs_0051/)  
