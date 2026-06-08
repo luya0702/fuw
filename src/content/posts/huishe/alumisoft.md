@@ -17,8 +17,6 @@ draft: false
 
 ## 单部下载：(有能力还请支持正版！)
 
----
-
 **游戏名称：** わんこの嫁入り ～ようこそ！いぬのしっぽへ～  
 **别名：** 汪酱出嫁～欢迎光临!狗尾巴～/小狗新娘～欢迎光临尾巴摇摇～  
 **下载地址：** [文件频道](https://t.me/sharega_down/46) | [百度网盘](https://pan.baidu.com/s/1ViqtZ6kChcYrv_sczIA5pw?pwd=4vz1) | [迅雷网盘](https://pan.xunlei.com/s/VOqQkftWuJXqqPmUCvFotR8wA1?pwd=qg35#)  
@@ -27,8 +25,6 @@ draft: false
 **注意事项：**  
 全英文路径  
 
----
-
 **游戏名称：** わんこの嫁入り 新たな二本のしっぽ  
 **别名：** 汪酱出嫁～新二尾嫁到～/汪酱出嫁2  
 **下载地址：** [文件频道](https://t.me/sharega_down/48) | [百度网盘](https://pan.baidu.com/s/1Q4KLxafb8ZNvwo0_fQsi0g?pwd=8439) | [迅雷网盘](https://pan.xunlei.com/s/VOqQm_Wrueqd5OjwRucsprxLA1?pwd=kaqf#)  
@@ -36,5 +32,3 @@ draft: false
 **翻译：** 虚空叛逆帝龙汉化  
 **注意事项：**  
 全英文路径  
-
----

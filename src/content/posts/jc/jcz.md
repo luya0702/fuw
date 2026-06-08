@@ -17,3 +17,4 @@ draft: false
 - 游戏运行问题：[点我查看](https://loagal.top/posts/jc/yxwt/)
 - 转区工具的使用方法：[点我查看](https://loagal.top/posts/jc/zqwt/)
 - 关于下载：[点我查看](https://loagal.top/posts/jc/xzwt/)
+- 支持正版：[点我查看](https://loagal.top/posts/jc/zczb/)

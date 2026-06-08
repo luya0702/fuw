@@ -23,7 +23,7 @@ draft: false
     - 请使用[DirectX_Repair修复工具](https://www.mefcl.com/directxrepair.html) 修复
 - 系统问题
     - 部分老游戏不支持win10 win11 .
-    - 最直接方法:[vmware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion),开个win7虚拟机
+    - 最直接方法:[vmware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion),开个win7虚拟机，关于虚拟机：[点我查看](https://loagal.top/posts/jc/xnj/)
     - 或者下载sxs.dll放到游戏根目录尝试
 - 转区问题
     - 转区软件下载及使用方法请看：[点我查看](https://loagal.top/jc/posts/zqwt/)
